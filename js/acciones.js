@@ -11,7 +11,7 @@ function onDeviceReady () {
 
  
 $('#posicion').on ('click',function(){
-getPos1tion ();
+getPosition ();
 });
  }
 
