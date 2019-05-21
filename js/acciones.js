@@ -30,7 +30,7 @@ function onSuccess(position) {
 
  
 alert ('Latitude:' + position.coords.latitude    + '\n'+
-          'Longitude:'+  posit1on.coords.longitude     +'\n');
+          'Longitude:' +  position.coords.longitude     +'\n');
 
 };
  
